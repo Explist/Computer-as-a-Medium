@@ -4,3 +4,5 @@ We intend for this project to be out final for the semester, and the one we pres
 ## Credits
 - Brayden Locke: Made bullets hurt enemies; Added Coroutine for cooldown on Ranged attack
 - Kaden Matos: Created walking sprites and switched attack points; Added Coroutine to disable spawn trap after a few seconds; Created character sprites
+
+https://youtu.be/gXfl_UfrLYA
